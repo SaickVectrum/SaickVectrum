@@ -1,6 +1,9 @@
 <div align="center">
-<h1 align="center">Hola, soy Victor 👋</h1>
+<div align=center>
+       <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Victor+%F0%9F%91%8B;Web+Developer;Problem+Solver" alt="Headline" />
+    </div>
 </div>
+
 <img src="https://github.com/user-attachments/assets/fd1e297f-87a4-48ed-891d-c87abbe50607">
 
 
