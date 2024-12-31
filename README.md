@@ -15,9 +15,9 @@
 
 ## Conocimientos
 <p align="center">
-  <a href="https://skillicons.dev">
+  <span>
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,github,html,js,laravel,mysql,nodejs,npm,php,postman,vue" />
-  </a>
+  </span>
 </p>
 <br>
 
