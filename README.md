@@ -7,13 +7,14 @@
 <img src="https://github.com/user-attachments/assets/857d6343-b674-4549-995b-ab0840174ae1">
 
 
-## Sobre mi
+## About me
 
-- Desarrollador web
-- Técnologo en análisis y Desarrollo de Software
+- Web developer
+- Front End
+- Back End
 <br>
 
-## Conocimientos
+## Skills
 <p align="center">
   <span>
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,github,html,js,laravel,mysql,nodejs,npm,php,postman,vue" />
